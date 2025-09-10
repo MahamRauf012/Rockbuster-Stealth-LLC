@@ -1,4 +1,6 @@
 # Rockbuster Stealth SQL Analysis
+This case study showcases SQL queries (CTEs, window functions, joins) applied to Rockbuster Stealth’s transactional data. Results highlight top-earning markets, high-value customers, and content performance trends translated into clear, actionable recommendations.
+
 # Project Summary
 
 This project presents a comprehensive SQL-based analysis of Rockbuster Stealth’s business data to support the company’s 2020 strategy. The analysis addresses key strategic questions from the management board, including top and low revenue-generating movies, average rental durations, customer locations, lifetime value segments, and regional sales variations.

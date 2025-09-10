@@ -23,7 +23,9 @@ Do sales figures differ across regions?
 
 The analysis was performed using Rockbuster’s relational database in PostgreSQL. The dataset included information on inventory, films, actors, customers, staff, stores, rentals, payments, and addresses.
 
-## Tools used: pgAdmin 4, PostgreSQL, Tableau Public
+## Tools used: 
+pgAdmin 4, PostgreSQL, Tableau Public
 
-## Outputs: SQL queries for data extraction, and Tableau dashboards for visualization
+## Outputs: 
+SQL queries for data extraction, and Tableau dashboards for visualization
 https://public.tableau.com/app/profile/maham.rauf/viz/3_10PresentingSQLResultsMahamRauf/SalesbyRegion
